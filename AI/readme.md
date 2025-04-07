@@ -14,14 +14,6 @@
 
 ---
 
-## 🖥️ 데모 화면
-
-![screenshot](https://via.placeholder.com/800x400?text=Preview+Image)
-
-> 👆 위 이미지는 예시입니다. 실제 화면 캡처로 교체하세요!
-
----
-
 ## 📦 기술 스택
 
 - React – 사용자 인터페이스 구현
